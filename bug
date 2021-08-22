@@ -1,0 +1,8 @@
+bug fixed: 
+1. marchent goto login try http://hellocourierbd.com/login/ (Not login) redirect Login Pages.
+2. admin panel chnages logo sidebar add hellocourierbd logo and favicon.
+3. database marchent/user registration (user_name) field unique. 
+4. dynamically new field add orderId 6 digit use Id Create like: 000014-19,000015-19 (last -19 means year)	
+5. Add new field (entrydatetime) booking table
+6. Add booking list bookingId
+
